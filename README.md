@@ -30,9 +30,10 @@
 
 ##
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kam3lyaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
+
+<div align="center" >
+    <img src="https://streak-stats.demolab.com?user=kam3lyaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
+
 ###
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kam3lyaa&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -51,4 +52,5 @@
   <img height="70" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
   <img height="70" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
   <img height="70" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
+  <img align="rigth" src="https://image2url.com/r2/default/files/1771798799067-104d55ec-5ae5-4436-9b0e-974a166c012b.png" height="150"/>
 </div>
