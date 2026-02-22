@@ -33,7 +33,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img height="80" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
-  <img height="80" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
-  <img height="80" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
+  <img height="70" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
+  <img height="70" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
+  <img height="70" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
 </div>
