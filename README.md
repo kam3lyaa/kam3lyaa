@@ -28,7 +28,14 @@
 
 <img src="https://raw.githubusercontent.com/kam3lyaa/kam3lyaa/output/snake.svg" alt="Snake animation" />
 
-###
+##
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kam3lyaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kam3lyaa&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+##
   
 <div> 
   <a href="https://www.instagram.com/kamily7_s2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
