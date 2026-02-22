@@ -25,6 +25,10 @@
 </div>
   
 ##
+
+<img src="https://raw.githubusercontent.com/kam3lyaa/kam3lyaa/output/snake.svg" alt="Snake animation" />
+
+###
   
 <div> 
   <a href="https://www.instagram.com/kamily7_s2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
