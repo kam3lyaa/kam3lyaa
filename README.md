@@ -52,5 +52,5 @@
   <img height="57" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
   <img height="57" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
   <img height="57" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
-  <img align="right" src="https://image2url.com/r2/default/files/1771798799067-104d55ec-5ae5-4436-9b0e-974a166c012b.png" height="150"/>
+  <img src="https://image2url.com/r2/default/files/1771798799067-104d55ec-5ae5-4436-9b0e-974a166c012b.png" height="150"/>
 </div>
