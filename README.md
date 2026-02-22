@@ -4,7 +4,7 @@
 
 ###
 
-## Tech Girl <3🎀
+## Tech Girl 🎀
 <img align="right" height="170" src="https://image2url.com/r2/default/files/1771729134253-258e7ed1-adc1-4b12-9c64-6dad40c02e1e.png">
 
 - Meu nome é Kamily, sou estudante de tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistema pela Fiap. 💻
