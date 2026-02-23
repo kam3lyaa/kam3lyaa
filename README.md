@@ -4,27 +4,30 @@
 
 ###
 
-## Olá! :)🎀
+## Olá! 🎀
 <img align="right" height="170" src="https://image2url.com/r2/default/files/1771729134253-258e7ed1-adc1-4b12-9c64-6dad40c02e1e.png">
 
+**`Futura Desenvolvedora Full-Stack`**
 - Meu nome é Kamily, sou estudante de tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistema pela Fiap. 💻
 - Meu objetivo principal é me tornar uma desenvolvedora Full-stack 💡
 - Procuro altualmente estudar e encontrar um estágio na minha área pra adquirir experiência suficiente para conseguir ingressar no mercado da tecnologia e da programação futuramente
 - Aberta a interações e network ✉️
 
+#
 
+### Liguagens e Tecnologias 🖥 
+### 
+<img title="Vscode" style="padding-right: 10px;" align="left" alt="Kamily-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+<img title="JavaScript" style="padding-right: 10px;" align="left" alt="Kamily-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img title="HTML" style="padding-right: 10px;" align="left" alt="Kamily-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img title="CSS" style="padding-right: 10px;" align="left"  alt="Kamily-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img title="Python" style="padding-right: 10px;" align="left" alt="Kamily-Python" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img title="Figma" style="padding-right: 10px;" align="left" alt="Kamily-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+<img title="Intellij" style="padding-right: 10px;" align="left" alt="Kamily-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
+<img title="Bootstrap" style="padding-right: 10px;" align="left" alt="Kamily-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+<br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kamily-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Kamily-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kamily-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kamily-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kamily-Python" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kamily-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="Kamily-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-</div>
-  
-##
+## 
 
 <img src="https://raw.githubusercontent.com/kam3lyaa/kam3lyaa/output/snake.svg" alt="Snake animation" />
 
