@@ -43,15 +43,15 @@
 
 ##
   
-<div> 
-      <a href="https://discord.com/users/1050804108782735401" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<div align="center"> 
+  <a href="https://discord.com/users/1050804108782735401" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kamilydeoliveiravieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kamily-de-oliveira-vieira-152720331/"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"_blank"></a> 
 </div>
 
 <div style="display: inline_block"><br>
-  <img height="57" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
-  <img height="57" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
-  <img height="57" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
   <img src="https://image2url.com/r2/default/files/1771798799067-104d55ec-5ae5-4436-9b0e-974a166c012b.png" height="150"/>
+  <img height="57" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
+  <img height="57" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
+  <img height="57" src="https://image2url.com/r2/default/files/1771725587077-6ca9fbc4-da9d-42df-ae70-1b96cd2755c1.png">
 </div>
