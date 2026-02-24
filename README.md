@@ -10,7 +10,6 @@
 **`Futura Desenvolvedora Full-Stack`**
 - Meu nome é Kamily, sou estudante de tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistema pela Fiap. 💻
 - Meu objetivo principal é me tornar uma desenvolvedora Full-stack 💡
-- Procuro altualmente estudar e encontrar um estágio na minha área pra adquirir experiência suficiente para conseguir ingressar no mercado da tecnologia e da programação futuramente
 - Aberta a interações e network ✉️
 
 #
