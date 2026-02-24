@@ -12,7 +12,7 @@
 - Meu objetivo principal é me tornar uma desenvolvedora Full-stack 💡
 - Aberta a interações e network ✉️
 
-#
+##
 
 ### Liguagens e Tecnologias 🖥 
 ### 
