@@ -11,8 +11,9 @@
 - Meu nome é Kamily, sou estudante de tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistema pela Fiap. 💻
 - Meu objetivo principal é me tornar uma desenvolvedora Full-stack 💡
 - Aberta a interações e network ✉️
+<br>
 
-##
+## 
 
 ### Liguagens e Tecnologias 🖥 
 ### 
